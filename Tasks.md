@@ -4,6 +4,7 @@
 
 #### Before you continue, be sure you have started the database ([Getting Started](./Getting%20Started.md))
 
+#### For the next task please document your SQL on the [createDB.sql](./createDB.sql) document
 1. Creating Databases and Tables
    - Task 1: Create a new database called RelationalTest
    - Task 2: Create the following tables
