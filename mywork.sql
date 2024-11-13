@@ -28,6 +28,7 @@
 -- Insert a new Keyboard into ‘Products’
 -- Insert yourself as a Customer
 -- Insert a new Order for yourself for one of the new laptops
+
 -- Display the Title, Forename and Surname of the customers in the database
 -- Display the name and telephone number of the suppliers in the database
 -- Display ALL the information held in the database about the customers
@@ -39,11 +40,15 @@
 -- Display how many customers there are in the database
 -- Display how many customers have the title ‘Mr’
 -- Display how many products there are in the ‘Cameras’ category
+
 -- Display the name and address details of all customers with a credit limit of £2000
 -- There is a quality issue with a product.  The company needs to see how many orders there are for the product with Product Number 'AE424747’.  Write this query.
 -- Following on from the last query, now display the details (e.g., order number, order date) of the orders for the product with Product Number 'AE424747’.  
 -- Display all details of products where the quantity in stock is less than the re-order level
 
+-- Find out how many products there are with a Product Number starting with ‘AF’
+-- Display all details of all customers whose surname starts with the letter ‘W’
+-- Display the Product Number, Description and Price of all FIREWALL products
 
 
 
