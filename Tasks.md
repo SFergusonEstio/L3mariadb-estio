@@ -8,18 +8,18 @@
 1. Creating Databases and Tables
    - Task 1: Create a new database called RelationalTest
    - Task 2: Create the following tables
-      - Customer
+      - Customers
            - ID
            - FirstName
            - Surname
-      - Order
+      - Orders
            - ID
            - OrderDate
            - ProductID
            - CustomerID
            - Quantity
            - OrderValue
-      - Product
+      - Products
            - ID
            - ProductName
            - Price
