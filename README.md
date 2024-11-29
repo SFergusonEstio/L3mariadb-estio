@@ -1,4 +1,4 @@
-# SQL Devlopment with MariaDB/MySQL
+# SQL Development with MariaDB/MySQL
 ![SQL BANNER](https://github.com/idrisfab/mariadb-demo/blob/main/Resources/img/SQL-Banner.jpg?raw=true)
 
 ## Contents
